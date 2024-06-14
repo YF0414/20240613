@@ -58,8 +58,8 @@ include $inc_path .'/inc/head.php';
   <div class="prof_item_cal"><a href="shop.php" target="_blank"><img src="<?=$com_href?>/img/soap05.jpg" alt=""></a></div>
 </div>
 
-<h2 class="member_h22" style="margin-bottom:10px;">本日出勤の<br>お気に入りセラピスト</h2>
-<p class="member_p">※ユーザー情報で設定した「利用するメインエリア」のお気に入りセラピストの出勤が表示されます<br>
+<h2 class="member_h22" style="margin-bottom:10px;">本日出勤の<br>お気に入り女性</h2>
+<p class="member_p">※ユーザー情報で設定した「利用するメインエリア」のお気に入り女性の出勤が表示されます<br>
 利用するメインエリアを切り替えるとそのエリアの出勤セラピストが表示されます。</p>
 
 
