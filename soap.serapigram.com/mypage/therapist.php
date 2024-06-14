@@ -42,12 +42,12 @@ include $inc_path .'/inc/head.php';
 
 <div class="button-box">
   <a href="/mypage" class="mat-button">マイページトップ</a>
-  <a href="therapist.php" class="mat-button pushpush">セラピスト</a>
+  <a href="therapist.php" class="mat-button pushpush">女性</a>
   <a href="likeshop.php" class="mat-button">ショップ</a>
   <a href="userprof.php" class="mat-button">ユーザー情報</a>
 </div>
 
-<h2 class="member_h22">Myセラピスト</h2>
+<h2 class="member_h22">お気に入り女性</h2>
 
 <div class="tabs">
   <input id="all" type="radio" name="tab_item" checked>
